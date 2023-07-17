@@ -279,7 +279,7 @@ button.pointer{
     cursor:grab;
 }
 footer{
-   margin: auto;
+    margin: auto;
     background-color:rgb(65, 67, 52);
     height: 15vh;
     width: 50%;
